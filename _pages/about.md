@@ -12,6 +12,8 @@ redirect_from:
 I am a dedicated third-year student pursuing a Bachelor's degree in Engineering Physics at the esteemed Indian Institute of Technology Hyderabad. My academic journey has been driven by a deep passion for the fundamental mysteries of the universe, leading me to specialize in areas such as High Energy Physics, Relativity, and Quantum Mechanics.
 
 I'm currently involved in neutrino physics and the exploration of dark matter. My fascination with space began in childhood and has since become a lifelong hobby, broadening my understanding of the cosmos.
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
