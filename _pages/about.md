@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-I am a dedicated third-year student pursuing a Bachelor's degree in Engineering Physics at the esteemed Indian Institute of Technology Hyderabad. My academic journey has been driven by a deep passion for the fundamental mysteries of the universe, leading me to specialize in areas such as High Energy Physics, Relativity, and Quantum Mechanics.
+I am a third-year student pursuing a Bachelor's degree in Engineering Physics at Indian Institute of Technology Hyderabad. My academic journey has been driven by a profound passion for unraveling the fundamental mysteries of the universe, leading me to specialize in captivating areas such as High Energy Physics, Relativity, and Quantum Mechanics.
 
-I'm currently involved in neutrino physics and the exploration of dark matter. My fascination with space began in childhood and has since become a lifelong hobby, broadening my understanding of the cosmos.
+My fascination with space began during my childhood, as I gazed at the moon and stars above, igniting a relentless curiosity about the cosmos. I found myself endlessly exploring questions about the origin of the universe, its composition, vastness, the countless galaxies, the diversity of stars in terms of size and color, and our minuscule existence from the perspective of the entire universe. This early passion gradually guided me toward the profound principles of physics.
+
+Currently, my academic pursuits revolve around neutrino physics and the quest to understand the enigmatic dark matter. What started as a childhood fascination has evolved into a lifelong hobby that continually enriches my comprehension of the universe.
+
 
 
 <!-- A data-driven personal website
