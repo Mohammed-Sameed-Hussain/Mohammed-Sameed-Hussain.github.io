@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The DUNE Experiment"
+excerpt: "Simulation of Detector response to Neutrinos<br/><img src='/images/Neutrino_Oscillations.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+- Investigated two and three-flavor Neutrino Oscillations, specifically with consideration to matter effects.
+
+- Engaged with Conceptual Design Reports for: DUNE (Deep Underground Neutrino Experiment) and LBNF (Long-Baseline Neutrino Facility), with a particular focus on detector design and functionality.
+
+- Currently, I'm involved in the simulation of detector responses for neutrino interactions. This forms a significant part of my ongoing project.
