@@ -15,6 +15,11 @@ My fascination with space began during my childhood, as I gazed at the moon and 
 
 Currently, my academic pursuits revolve around neutrino physics and the quest to understand the enigmatic dark matter. What started as a childhood fascination has evolved into a lifelong hobby that continually enriches my comprehension of the universe.
 
+I am deeply enthusiastic about advancing my research endeavors within the realm of Theoretical Physics, with a primary focus on Particle Physics, Relativity, and Cosmology.
+
+As I embark on this intellectual journey, I am dedicated to pushing the boundaries of human knowledge and contributing to the ever-evolving landscape of theoretical physics.
+
+
 
 
 <!-- A data-driven personal website
