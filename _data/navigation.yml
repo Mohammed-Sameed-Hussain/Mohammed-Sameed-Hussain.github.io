@@ -11,7 +11,10 @@ main:
 
   - title: "Projects"
     url: /portfolio/
-        
+
+  - title: "Recommended Books"     
+    url: /books/
+    
   - title: "CV"
     url: /files/Resume_template_1.pdf
 
