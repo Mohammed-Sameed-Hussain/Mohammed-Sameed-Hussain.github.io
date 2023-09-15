@@ -16,7 +16,7 @@ permalink: /books/
    - Author: H. Goldstein
    - Description: This book is *NOT* intended for students who haven't yet completed a basic classical mechanics course. It's best suited for those who have a solid grasp of fundamental concepts like momentum, torque, and moment of inertia within the context of elementary classical mechanics. This book stands out as a rigorous mathematical resource and is an indispensable addition to anyone's classical mechanics studies. Without it, your understanding of classical mechanics may remain incomplete. I strongly recommend this book to undergraduate students in their second year. While it demands a high patience and effort, the rewards are well worth it. To fully benefit from this book, active engagement is essential. You'll need to work through problems and exercises as there's no substitute for hands-on learning.
    <!-- - ![Book Cover](/images/books/Herbert_Goldstein.jpg) -->
-   - <img src="/images/books/book1.jpg" alt="Book Cover" width="200" height="300" />
+   - <img src="/images/books/Herbert_Goldstein.jpg" alt="Book Cover" width="200" height="300" />
 
 <!-- **Book Title 2 (College Level)**
    - Author: Author Name
