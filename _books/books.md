@@ -8,9 +8,9 @@ permalink: /books/
 
 ## Physics
 
-### <h3>For College Students</h3>
+### For College Students
 
-Introductory Text for College Students: This section includes books suitable for college students looking to master the subject proficiently.
+**_For College Students:_** Introductory Text for College Students: This section includes books suitable for college students looking to master the subject proficiently.
 
 **Book Title 1 (College Level)**
    - Author: Author Name
@@ -22,7 +22,7 @@ Introductory Text for College Students: This section includes books suitable for
    - Description: Another book for college students with a brief description.
    - ![Book Cover](/images/books/book2.jpg)
 
-### <p>For Amateur Physics Enthusiasts</p>
+### For Amateur Physics Enthusiasts
 
 Introductory Text for Amateur Physics Enthusiasts: This section includes books for anyone, especially students who have not reached university/college level but have an interest in exploring the subject without mathematical rigor.
 
