@@ -8,16 +8,16 @@ permalink: /books/
 
 ## Physics
 
-### For College Students
+<!-- ### For College Students -->
 
-**_For College Students:_** Introductory Text for College Students: This section includes books suitable for college students looking to master the subject proficiently.
+**_For College Students:_** Introductory and Advanced Text for College Students: This section includes books suitable for college students looking to master the subject proficiently.
 
-**Book Title 1 (College Level)**
-   - Author: Author Name
-   - Description: A brief description of the book suitable for college students looking to master the subject proficiently.
-   - ![Book Cover](/images/books/book1.jpg)
+**Classical Mechanics**
+   - Author: H. Goldstein
+   - Description: This book is *NOT* intended for students who haven't yet completed a basic classical mechanics course. It's best suited for those who have a solid grasp of fundamental concepts like momentum, torque, and moment of inertia within the context of elementary classical mechanics. This book stands out as a rigorous mathematical resource and is an indispensable addition to anyone's classical mechanics studies. Without it, your understanding of classical mechanics may remain incomplete. I strongly recommend this book to undergraduate students in their second year. While it demands a high patience and effort, the rewards are well worth it. To fully benefit from this book, active engagement is essential. You'll need to work through problems and exercises as there's no substitute for hands-on learning.
+   - ![Book Cover](/images/books/Herbert_Goldstein.jpg)
 
-**Book Title 2 (College Level)**
+<!-- **Book Title 2 (College Level)**
    - Author: Author Name
    - Description: Another book for college students with a brief description.
    - ![Book Cover](/images/books/book2.jpg)
@@ -46,4 +46,4 @@ Introductory Text for Amateur Physics Enthusiasts: This section includes books f
 **Book Title 2**
    - Author: Author Name
    - Description: A brief description of another mathematics book and why it's recommended.
-   - ![Book Cover](/images/books/math_book2.jpg)
+   - ![Book Cover](/images/books/math_book2.jpg) -->
