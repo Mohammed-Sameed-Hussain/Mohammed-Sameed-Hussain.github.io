@@ -5,15 +5,12 @@ collections: books
 permalink: /books/
 ---
 
----
-title: "Recommended Books on Physics and Mathematics"
-collection: books
-permalink: /books/
----
 
 ## Physics
 
 ### <h3>For College Students</h3>
+
+Introductory Text for College Students: This section includes books suitable for college students looking to master the subject proficiently.
 
 **Book Title 1 (College Level)**
    - Author: Author Name
@@ -26,6 +23,8 @@ permalink: /books/
    - ![Book Cover](/images/books/book2.jpg)
 
 ### <p>For Amateur Physics Enthusiasts</p>
+
+Introductory Text for Amateur Physics Enthusiasts: This section includes books for anyone, especially students who have not reached university/college level but have an interest in exploring the subject without mathematical rigor.
 
 **Book Title 1 (Amateur Level)**
    - Author: Author Name
