@@ -19,7 +19,7 @@ permalink: /books/
    - <img src="/images/books/Herbert_Goldstein.jpg" alt="Book Cover" width="200" height="300" />
 
 **Special Relativity**
-   - Author: AP French
+   - Author: A.P. French
    - Description: Among the various books I've explored on the topic of relativity, this one stands out as the ideal choice for college students embarking on an introductory journey into Special Relativity. It offers a comprehensive account of scientific events and discoveries, presented in chronological order, that gradually paved the way for the development of relativity theory. What truly sets this book apart is its unique approach, immersing readers in the scientific landscape of the late 1800s and early 1900s. As you delve into its pages, you'll find yourself transported to that era, gaining insights into how theories were formulated, accepted, and eventually found experimentally flawed. While there are several good books available, many focus solely on teaching the fundamental concepts of relativity, which is valuable in its own right. However, this particular book goes beyond that by guiding you through the authentic process scientists followed in constructing the foundations of special relativity. Moreover, completing this book and diligently practicing its exercises will provide you with a much deeper understanding of relativity, both conceptually and mathematically.
    - <img src="/images/books/AP_French_Special_Relativity.jpg" alt="Book Cover" width="200" height="300" />
 
