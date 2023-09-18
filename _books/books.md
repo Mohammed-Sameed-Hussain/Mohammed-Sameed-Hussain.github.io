@@ -30,6 +30,7 @@ permalink: /books/
    - **Author**: *David J. Griffiths*
    - **Description**: This book primarily focuses on Electricity and Magnetism, beginning with the basics of electrostatic interactions. It employs university-level calculus and explores various mathematical methods for problem-solving. Notably, this book doesn't cover the intricacies of 4-vector notation; instead, it maintains an elementary approach. I wholeheartedly recommend this book to first-year students. It serves as a foundational resource that students should certainly explore before diving into more advanced electrodynamics texts.Additionally, towards the end, it briefly introduces relativistic effects, offering students a glimpse into this important aspect of electromagnetism.
    - <img src="/images/books/EandMGriffiths.jpg" alt="Book Cover" width="200" height="300" />
+   
 <!-- ### For Amateur Physics Enthusiasts
 
 Introductory Text for Amateur Physics Enthusiasts: This section includes books for anyone, especially students who have not reached university/college level but have an interest in exploring the subject without mathematical rigor.
