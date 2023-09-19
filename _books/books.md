@@ -1,5 +1,5 @@
 ---
-title: "Recommended Books for Physics and Mathematics"
+title: "Recommended Books for Physics"
 # excerpt: "Simulation of Detector response to Neutrinos<br/><img src='/images/Neutrino_Oscillations.png'>"
 collections: books
 permalink: /books/
