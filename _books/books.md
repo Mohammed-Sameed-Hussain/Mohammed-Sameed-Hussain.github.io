@@ -31,16 +31,16 @@ permalink: /books/
    - **Description**: This book primarily focuses on Electricity and Magnetism, beginning with the basics of electrostatic interactions. It employs university-level calculus and explores various mathematical methods for problem-solving. Notably, this book doesn't cover the intricacies of 4-vector notation; instead, it maintains an elementary approach. I wholeheartedly recommend this book to first-year students. It serves as a foundational resource that students should certainly explore before diving into more advanced electrodynamics texts.Additionally, towards the end, it briefly introduces relativistic effects, offering students a glimpse into this important aspect of electromagnetism.
    - <img src="/images/books/EandMGriffiths.jpg" alt="Book Cover" width="200" height="300" />
    
-<!-- ### For Amateur Physics Enthusiasts
+### _For Amateur Physics Enthusiasts_
 
 Introductory Text for Amateur Physics Enthusiasts: This section includes books for anyone, especially students who have not reached university/college level but have an interest in exploring the subject without mathematical rigor.
 
-**Book Title 1 (Amateur Level)**
-   - Author: Author Name
-   - Description: A brief description of the book for anyone, especially students who have not reached university/college level but have an interest in exploring the subject without mathematical rigor.
-   - ![Book Cover](/images/books/book3.jpg)
+**Relativity Simply Explained**
+   - **Author**: *Martin Gardner*
+   - **Description**: Among the numerous books on relativity that I have had the opportunity to read, this one stands out as one of the finest. It distinguishes itself by requiring no prior mathematical expertise, making it an ideal choice for individuals who have not yet entered college but harbor a profound passion for physics.This book presents the concepts of relativity in a manner that is easily digestible, aided by illustrative examples that enhance the reader's understanding of the subject matter. Readers are sure to find this book not only informative but also genuinely entertaining.
+   - <img src="/images/books/Martin_Gardner_Relativity.jpg" alt="Book Cover" width="200" height="300" />
 
-**Book Title 2 (Amateur Level)**
+<!-- **Book Title 2 (Amateur Level)**
    - Author: Author Name
    - Description: Another book for amateur physics enthusiasts with a brief description.
    - ![Book Cover](/images/books/book4.jpg)
