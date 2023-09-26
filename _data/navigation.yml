@@ -16,7 +16,7 @@ main:
     url: /books/
     
   - title: "CV"
-    url: /files/Resume_template_1.pdf
+    url: /files/Resume_template_2.pdf
 
   # - title: "Blog Posts"
   #   url: /year-archive/
