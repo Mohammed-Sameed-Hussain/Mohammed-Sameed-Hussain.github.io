@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Makes you question your own existence"
+excerpt: "If you can't explain it simply, you don't understand it well enough."
 author_profile: true
 redirect_from: 
   - /about/
